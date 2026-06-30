@@ -1,0 +1,4 @@
+"Axis","Df","Variance","F","Pr(>F)"
+"Zoop_Community_PC1",1,"0.4353","0.8967","0.516"
+"Zoop_Community_PC2",1,"0.4097","0.8439","0.578"
+"Residual",25,"12.1361","-","-"

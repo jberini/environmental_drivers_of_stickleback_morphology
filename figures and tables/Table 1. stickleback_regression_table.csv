@@ -1,0 +1,67 @@
+"Trait","Category","Predictor","Beta","SE","t_stat","p_val","R2","DF","Outliers_Dropped"
+"Armor.Plate.N","Water Column (Sonde)","SD_DO_Percent","-0.345","0.228","-1.51","0.146","0.094","22",4
+"Armor.Plate.N","Landscape & Climate","mean_d2_ogdc","0.022","0.310","0.07","0.944","0.000","21",5
+"Armor.Plate.N","Landscape & Climate","max_depth_est","1.214","0.198","6.13","< 0.001","0.610","24",2
+"Armor.Plate.N","Landscape & Climate","mean_spp1_pc","-0.162","0.244","-0.66","0.513","0.020","22",4
+"Armor.Plate.N","Landscape & Climate","mean_DD_0_05","0.506","3.336","0.15","0.881","0.001","23",3
+"Armor.Plate.N","Landscape & Climate","perimeter","1.451","0.167","8.67","< 0.001","0.750","25",1
+"Body.Depth","Landscape & Climate","mean_sp3_cvr","0.381","0.143","2.66","0.014","0.235","23",3
+"Body.Depth","Landscape & Climate","mean_sa_proj_ht","0.245","0.112","2.19","0.038","0.160","25",1
+"CP.Depth","Water Column (Sonde)","SD_DO_Percent","0.066","0.015","4.35","< 0.001","0.421","26",0
+"CP.Depth","Landscape & Climate","mean_RH_sp","0.055","0.019","2.91","0.008","0.253","25",1
+"CP.Depth","Landscape & Climate","mean_d2_paved","-0.074","0.017","-4.27","< 0.001","0.431","24",2
+"CP.Depth","Water Column (Sonde)","Mean_fDOM_RFU","0.058","0.019","3.04","0.006","0.278","24",2
+"CP.Depth","Water Column (Sonde)","Mean_pH","-0.072","0.020","-3.65","0.001","0.366","23",3
+"Eye.Diameter","Landscape & Climate","mean_d2_lake","-0.046","0.018","-2.61","0.015","0.208","26",0
+"Eye.Diameter","Landscape & Climate","mean_CMI06","-0.044","0.016","-2.69","0.013","0.248","22",4
+"Eye.Diameter","Landscape & Climate","mean_Tmax_sp","-0.033","0.017","-1.99","0.058","0.137","25",1
+"Eye.Diameter","Landscape & Climate","mean_Tave10","-0.055","0.015","-3.62","0.001","0.353","24",2
+"Eye.Diameter","Landscape & Climate","mean_RH02","0.049","0.015","3.31","0.003","0.323","23",3
+"Eye.Diameter","Landscape & Climate","mean_Eref12","-0.057","0.015","-3.78","< 0.001","0.373","24",2
+"Eye.Diameter","Landscape & Climate","mean_Tmax10","-0.059","0.015","-4.05","< 0.001","0.406","24",2
+"Eye.Diameter","Landscape & Climate","mean_DD_18_10","0.055","0.015","3.60","0.001","0.350","24",2
+"Eye.Diameter","Landscape & Climate","mean_RH11","0.059","0.014","4.10","< 0.001","0.412","24",2
+"Eye.Diameter","Landscape & Climate","mean_DD5_09","-0.053","0.017","-3.07","0.005","0.282","24",2
+"Fin.Width","Landscape & Climate","mean_RH03","0.251","0.083","3.01","0.006","0.275","24",2
+"Fin.Width","Landscape & Climate","mean_RH_at","0.258","0.079","3.25","0.003","0.306","24",2
+"Fin.Width","Landscape & Climate","mean_Tmax09","-0.266","0.085","-3.14","0.004","0.292","24",2
+"Fin.Width","Landscape & Climate","mean_RH","0.251","0.089","2.82","0.009","0.249","24",2
+"Fin.Width","Landscape & Climate","mean_Eref10","-0.183","0.080","-2.30","0.030","0.175","25",1
+"Fin.Width","Landscape & Climate","mean_Eref09","-0.269","0.087","-3.07","0.005","0.282","24",2
+"Fin.Width","Landscape & Climate","mean_Eref_at","-0.208","0.079","-2.62","0.015","0.216","25",1
+"Gill.raker.1.length","Landscape & Climate","mean_vert_comp","-0.074","0.018","-4.03","< 0.001","0.394","25",1
+"Gill.raker.1.length","Landscape & Climate","mean_basal_area","0.074","0.015","5.04","< 0.001","0.524","23",3
+"Gill.raker.1.length","Landscape & Climate","mean_spp1_pc","-0.045","0.019","-2.34","0.027","0.174","26",0
+"Gill.raker.1.length","Landscape & Climate","mean_d2_ancient","0.052","0.018","2.82","0.009","0.234","26",0
+"Gill.raker.N","Landscape & Climate","mean_d2_lake","-0.533","0.193","-2.76","0.011","0.233","25",1
+"Gill.raker.N","Water Column (Sonde)","Mean_fDOM_RFU","-0.584","0.165","-3.53","0.002","0.324","26",0
+"Gill.raker.N","Landscape & Climate","mean_DD_0_11","0.315","0.185","1.70","0.101","0.104","25",1
+"Gill.raker.N","Landscape & Climate","mean_DEM_vi","0.471","0.187","2.52","0.019","0.209","24",2
+"Head.Length","Landscape & Climate","mean_RH02","0.141","0.051","2.76","0.011","0.234","25",1
+"Head.Length","Landscape & Climate","mean_DD5_11","-0.114","0.053","-2.14","0.042","0.155","25",1
+"Head.Length","Landscape & Climate","mean_Tmax02","-0.125","0.053","-2.37","0.026","0.184","25",1
+"Head.Length","Landscape & Climate","mean_RH01","0.166","0.051","3.25","0.003","0.306","24",2
+"Head.Length","Landscape & Climate","mean_Eref10","-0.187","0.054","-3.49","0.002","0.347","23",3
+"Head.Length","Landscape & Climate","mean_DD5_02","-0.091","0.052","-1.74","0.095","0.112","24",2
+"Head.Length","Landscape & Climate","mean_crwn_clsre","0.109","0.054","2.02","0.055","0.140","25",1
+"Opercular.4bar.KT","Landscape & Climate","mean_CMD08","0.175","0.053","3.34","0.003","0.308","25",1
+"Opercular.4bar.KT","Landscape & Climate","mean_CMI08","-0.174","0.053","-3.29","0.003","0.303","25",1
+"Opercular.4bar.KT","Landscape & Climate","mean_Tmax12","-0.134","0.052","-2.59","0.016","0.218","24",2
+"Opercular.4bar.KT","Landscape & Climate","mean_DD18_sp","0.200","0.070","2.87","0.008","0.248","25",1
+"Opercular.4bar.KT","Landscape & Climate","mean_RH03","0.183","0.059","3.10","0.005","0.285","24",2
+"Opercular.4bar.KT","Landscape & Climate","mean_d2_lake","-0.185","0.058","-3.16","0.004","0.285","25",1
+"Opercular.4bar.KT","Landscape & Climate","mean_CMI10","-0.205","0.059","-3.45","0.002","0.323","25",1
+"Opercular.4bar.KT","Landscape & Climate","mean_CMI07","-0.169","0.054","-3.12","0.005","0.280","25",1
+"Opercular.4bar.KT","Landscape & Climate","mean_Tmax_wt","-0.135","0.052","-2.61","0.015","0.221","24",2
+"Snout.Length","Landscape & Climate","mean_crwn_clsre","0.081","0.039","2.06","0.050","0.145","25",1
+"Snout.Length","Landscape & Climate","mean_basal_area","0.090","0.039","2.33","0.028","0.178","25",1
+"Standard.Length","Landscape & Climate","mean_CMD05","2.402","0.708","3.39","0.002","0.315","25",1
+"Standard.Length","Landscape & Climate","mean_PPT09","-2.999","0.722","-4.15","< 0.001","0.418","24",2
+"Standard.Length","Landscape & Climate","mean_CMI09","-2.667","0.679","-3.93","< 0.001","0.382","25",1
+"Standard.Length","Landscape & Climate","mean_DD_18_sp","2.674","0.756","3.54","0.002","0.343","24",2
+"Standard.Length","Landscape & Climate","mean_PPT05","-3.472","0.849","-4.09","< 0.001","0.421","23",3
+"Standard.Length","Landscape & Climate","mean_CMD_sp","2.402","0.708","3.39","0.002","0.315","25",1
+"Standard.Length","Landscape & Climate","mean_CMI05","-2.897","0.808","-3.59","0.001","0.349","24",2
+"Standard.Length","Landscape & Climate","mean_harvest_yr","2.594","0.670","3.87","< 0.001","0.375","25",1
+"Gape.Width","None","(No significant predictors found)","-","-","-","-","-","(No Data)",0
+"Gill.Raker.Density","None","(No significant predictors found)","-","-","-","-","-","(No Data)",0
