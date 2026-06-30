@@ -1,6 +1,6 @@
 # Morphology & Environmental Covariates: Ecological Drivers of Stickleback Variation
 
-This repository houses the reproducible analytical pipeline and statistical architectures evaluating how environmental variation in landscape, climate, water column, and the zooplanktpn community drive morphological variation in stickleback populations on Vancouver Island, B.C..
+This repository houses the reproducible analytical pipeline and statistical architectures evaluating how environmental variation in landscape, climate, water column, and the zooplankton community drive morphological variation in stickleback populations on Vancouver Island, B.C..
 
 ## Repository Directory & Structure
 
