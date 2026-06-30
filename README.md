@@ -16,7 +16,7 @@ This project utilizes five core relational datasets evaluating phenotypes and ec
 * `ZoopIDDataUpdated.csv`: Taxonomic counts and community composition matrices of local zooplankton prey resources.
 * `lake_id_mapping.csv`: Spatial and structural metadata linking independent sample points to geographic lake frameworks.
 
-### 📁 Statistical Summaries & Tables
+### 📁 Statistical Summaries & Tables (`figures and tables/`)
 Exported comma-separated summary tables of key statistical environments:
 * `Table 1. stickleback_regression_table.csv`: Comprehensive summary of univariate linear regression frameworks evaluating environmental drivers against isolated phenotypic traits.
 * `Table 2a. dbrda_variance_explained_table.csv`: Distance-based Redundancy Analysis (dbRDA) metrics capturing raw and adjusted cumulative variance ($R^2$) explained by prey communities.
