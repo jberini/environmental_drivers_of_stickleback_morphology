@@ -23,7 +23,7 @@ Exported comma-separated summary tables of key statistical environments:
 * `Table 2b. dbrda_global_permutation_table.csv`: Global non-parametric permutation test outputs evaluating the full multivariate dbRDA landscape model.
 * `Table 2c. dbrda_marginal_axis_table.csv`: Marginal permutation testing evaluating the significance of individual zooplankton PCA axes.
 
-### 📁 Figures & Visualizations (`figures/`)
+### 📁 Figures & Tables (`figures and tables/`)
 High-resolution, publication-ready vector graphics:
 * `Figure 1. Stickleback Drivers.pdf`: Main analytical plot mapping primary environmental covariates to morphometric variation.
 * `Figure 2. Ecosystem Gradients.pdf`: Ecosystem gradient profiles tracking spatial and raw variation across individual collection sites.
